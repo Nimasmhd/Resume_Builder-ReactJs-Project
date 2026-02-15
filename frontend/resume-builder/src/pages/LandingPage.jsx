@@ -677,14 +677,14 @@ const LandingPage = () => {
               </div>
             </div>
 
-            <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-              <p className="text-gray-500 text-sm">
-                © 2026 ResuMate. All rights reserved.
-              </p>
-              <p className="text-gray-600 text-sm">
-                2020/ICTS/68_ULH
-              </p>
-            </div>
+            <div className="border-t border-gray-800 pt-8 flex flex-col items-center gap-2 text-center">
+            <p className="text-gray-500 text-sm">
+              © 2026 ResuMate. All rights reserved.
+            </p>
+            <p className="text-gray-600 text-sm">
+              Developed By : 2020/ICTS/68_ULH
+            </p>
+          </div>
           </div>
         </footer>
       </div>
